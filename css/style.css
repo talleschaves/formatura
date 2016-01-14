@@ -111,10 +111,11 @@
 	color: #fff;
 	font-size: 0;
 	margin: 2px;
+	opacity: 0.5;
 }
 
 .bb-custom-wrapper > nav a:hover {
-	opacity: 0.6;
+	opacity: 1.0;
 }
 
 .bb-custom-icon:before {
