@@ -97,6 +97,7 @@
 	margin: 1em auto 0;
 	position: fixed;
 	bottom: 20px;
+	opacity: 0.5;
 	z-index: 1000;
 	text-align: center;
 }
@@ -111,7 +112,6 @@
 	color: #fff;
 	font-size: 0;
 	margin: 2px;
-	opacity: 0.5;
 }
 
 .bb-custom-wrapper > nav a:hover {
