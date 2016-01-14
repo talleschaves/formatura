@@ -97,6 +97,7 @@
 	margin: 1em auto 0;
 	position: fixed;
 	bottom: 20px;
+	opacity: 0.5;
 	z-index: 1000;
 	text-align: center;
 }
@@ -114,7 +115,7 @@
 }
 
 .bb-custom-wrapper > nav a:hover {
-	opacity: 0.6;
+	opacity: 1.0;
 }
 
 .bb-custom-icon:before {
